@@ -13,7 +13,7 @@
 
 Name     : libgfortran-compat-soname4
 Version  : 7.3.0
-Release  : 16
+Release  : 17
 URL      : http://www.gnu.org/software/gcc/
 #Source0  : http://ftp.gnu.org/gnu/gcc/gcc-6.3.0/gcc-6.3.0.tar.bz2
 Source0  : https://ftp.gnu.org/gnu/gcc/gcc-7.3.0/gcc-7.3.0.tar.gz
